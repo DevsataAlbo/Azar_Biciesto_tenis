@@ -18,7 +18,7 @@ cd Azar_Biciesto_tenis
 ### Para ver online 
 ```bash
 
-https://devsataalbo.github.io/
+https://devsataalbo.github.io/Azar_Biciesto_tenis/index.html
 
 ```
 
